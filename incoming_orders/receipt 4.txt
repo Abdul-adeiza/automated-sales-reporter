@@ -1,0 +1,1 @@
+SALE DETAIL - Order: E-303, ProductID=11, Amount=4

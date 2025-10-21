@@ -1,0 +1,5 @@
+*** CUSTOMER RECEIPT ***
+Date: 2025-10-14
+Order: B-241
+Item Code: 4, Quantity: 1
+Thank you for your purchase!

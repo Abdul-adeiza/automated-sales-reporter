@@ -1,0 +1,5 @@
+*** CUSTOMER RECEIPT ***
+*** STORE COPY ***
+Transaction ID: B-242
+Details -> ProductID: 18 // Quantity: 3
+Notes: Urgent delivery.

@@ -1,0 +1,5 @@
+*** STORE RECEIPT ***
+Date: 2025-10-14
+Order Number: C-101
+Item Code: 5, Quantity: 2
+Thank you!

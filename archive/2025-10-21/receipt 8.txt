@@ -1,0 +1,7 @@
+<order>
+  <id>I-707</id>
+  <item>
+    <prod_id>1</prod_id>
+    <qty>10</qty>
+  </item>
+</order>
